@@ -1,0 +1,20 @@
+= DIR: The Diving Into Reactive (meta) repository
+
+Parent repository to accompany session/workshop for Diving into Reactive, including R2DBC (Reactive Relational Database Connectivity), Blockhound, Reactor Test, and RSocket.
+
+== Component repos
+
+* link:https://github.com/mkheck/dir-java-coffee-service[Coffee service (Java)]
+* link:https://github.com/mkheck/dir-java-coffee-client[Coffee client (Java)]
+* link:https://github.com/mkheck/getting-started-r2dbc[Getting started with R2DBC]
+
+NOTE: Kotlin code coming soon, please see the following similar repos from an earlier version of session for now.
+
+* link:https://github.com/mkheck/fsr-kotlin-coffee-service[Coffee service (Kotlin)]
+* link:https://github.com/mkheck/fsr-kotlin-coffee-client[Coffee client (Kotlin)]
+
+== Contact information
+
+* Mark Heckler
+* link:https://twitter.com/mkheck[@mkheck]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
