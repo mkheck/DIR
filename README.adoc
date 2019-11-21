@@ -4,8 +4,8 @@ Parent repository to accompany session/workshop for Diving into Reactive, includ
 
 == Component repos
 
-* link:https://github.com/mkheck/dir-java-coffee-service[Coffee service (Java)]
-* link:https://github.com/mkheck/dir-java-coffee-client[Coffee client (Java)]
+* link:https://github.com/mkheck/dir-coffee-service[Coffee service (Java)]
+* link:https://github.com/mkheck/dir-coffee-client[Coffee client (Java)]
 * link:https://github.com/mkheck/getting-started-r2dbc[Getting started with R2DBC]
 
 NOTE: Kotlin code coming soon, please see the following similar repos from an earlier version of session for now.
